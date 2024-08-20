@@ -1,0 +1,2 @@
+{"testCaseName":"Test Cases/TC_SearchProducts","testCaseId":"Test Cases/TC_SearchProducts","iterationVariableName":"","bindedValues":{"GeschenkFur":"\u0027-\u0027","Marke":"\u0027?\u0027","Produktart":"\u0027?\u0027","FurWen":"\u0027?\u0027","Criteria":"\u0027SALE\u0027"}}
+{"testCaseName":"Test Cases/TC_SearchProducts","testCaseId":"Test Cases/TC_SearchProducts","iterationVariableName":"","bindedValues":{"GeschenkFur":"\u0027-\u0027","Marke":"\u0027-\u0027","Produktart":"\u0027?\u0027","FurWen":"\u0027?\u0027","Criteria":"\u0027NEU\u0027"}}

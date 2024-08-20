@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SearchProducts" time="174.286" tests="2" failures="0" errors="0">
+   <testsuite name="SearchProducts" tests="2" failures="0" errors="0" time="174.286" skipped="0" timestamp="21-08-2024T03:42:04" hostname="Dell - DESKTOP-RBJSP3C" id="Test Suites/SearchProducts">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156"/>
+         <property name="logFiles" value="C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724191954378.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724191966823.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724191978930.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724191991701.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192010436.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192011467.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192040113.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192053072.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192066729.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192087659.png, C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192089478.png"/>
+         <property name="hostName" value="Dell - DESKTOP-RBJSP3C"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Edge Chromium 127"/>
+         <property name="hostAddress" value="192.168.31.168"/>
+         <property name="sessionId" value="7cbccdf53f466c51172a543600ff8cbe"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC_SearchProducts" time="90.143" classname="Test Cases/TC_SearchProducts" status="PASSED">
+         <system-out><![CDATA[21-08-2024T03:42:04 - [TEST_CASE][PASSED] - Test Cases/TC_SearchProducts: Test Cases/TC_SearchProducts
+
+21-08-2024T03:42:05 - [TEST_STEP][PASSED] - com.Commons.CommonMethods.navigateToUrl(url): com.Commons.CommonMethods.navigateToUrl is PASSED
+
+21-08-2024T03:42:06 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+21-08-2024T03:42:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-08-2024T03:42:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+21-08-2024T03:42:15 - [MESSAGE][PASSED] - Navigate to 'https://www.douglas.de/de' successfully
+
+21-08-2024T03:42:16 - [MESSAGE][PASSED] - Current window maximized
+
+21-08-2024T03:42:24 - [MESSAGE][INFO] - Unable to find the element located by 'div > div.sc-aXZVg.jmAsbz > #focus-lock-id > #focus-lock-id > div.sc-dAlyuH.gRvRiD > #uc-center-container > div.sc-eBMEME.dRvQzh > div.sc-dCFHLb.eNfaCm > div.sc-jsJBEP.iXSECa > div.sc-eeDRCY.fnyekb > button.sc-dcJsrY.eIFzaz'. Please recheck the objects properties to make sure the desired element is located. 
+
+21-08-2024T03:42:24 - [MESSAGE][PASSED] - Object 'Object Repository/AcceptCookies/button_ALLE ERLAUBEN' is present
+
+21-08-2024T03:42:25 - [MESSAGE][PASSED] - Object: 'Object Repository/AcceptCookies/button_ALLE ERLAUBEN' is clicked on
+
+21-08-2024T03:42:31 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@class="survey-modal__close-inner"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+21-08-2024T03:42:31 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/AcceptCookies/button_Close'. Try using Self-healing.
+
+21-08-2024T03:42:32 - [MESSAGE][INFO] - [SELF-HEALING] No working XPath is found.
+
+21-08-2024T03:42:33 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+21-08-2024T03:42:33 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the selector is null
+
+21-08-2024T03:42:33 - [MESSAGE][WARNING] - Object 'Object Repository/AcceptCookies/button_Close' is not present after 5 second(s)
+
+21-08-2024T03:42:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724191954378.png]]
+
+21-08-2024T03:42:34 - [MESSAGE][PASSED] - com.Commons.CommonMethods.navigateToUrl is PASSED
+
+21-08-2024T03:42:34 - [TEST_STEP][PASSED] - com.Commons.CommonMethods.selctCriteria(Criteria): com.Commons.CommonMethods.selctCriteria is PASSED
+
+21-08-2024T03:42:35 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_Criteria' is clickable
+
+21-08-2024T03:42:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Next' is clicked on
+
+21-08-2024T03:42:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/select_Criteria' is clicked on
+
+21-08-2024T03:42:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-08-2024T03:42:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Next' is clicked on
+
+21-08-2024T03:42:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724191966823.png]]
+
+21-08-2024T03:42:46 - [MESSAGE][PASSED] - com.Commons.CommonMethods.selctCriteria is PASSED
+
+21-08-2024T03:42:46 - [TEST_STEP][PASSED] - com.Commons.CommonMethods.selectFilters(Marke, Produktart, GeschenkFur, FurWen): com.Commons.CommonMethods.selectFilters is PASSED
+
+21-08-2024T03:42:47 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_Filter' is clickable
+
+21-08-2024T03:42:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/select_Filter' is clicked on
+
+21-08-2024T03:42:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/logo' is hovered
+
+21-08-2024T03:42:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-08-2024T03:42:53 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is clickable
+
+21-08-2024T03:42:54 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is checked
+
+21-08-2024T03:42:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Produkte anzeigen' is clicked on
+
+21-08-2024T03:42:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724191978930.png]]
+
+21-08-2024T03:43:04 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+21-08-2024T03:43:04 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_Filter' is clickable
+
+21-08-2024T03:43:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/select_Filter' is clicked on
+
+21-08-2024T03:43:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/logo' is hovered
+
+21-08-2024T03:43:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-08-2024T03:43:08 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is clickable
+
+21-08-2024T03:43:09 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is checked
+
+21-08-2024T03:43:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Produkte anzeigen' is clicked on
+
+21-08-2024T03:43:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724191991701.png]]
+
+21-08-2024T03:43:16 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+21-08-2024T03:43:21 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+21-08-2024T03:43:22 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_Filter' is clickable
+
+21-08-2024T03:43:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/select_Filter' is clicked on
+
+21-08-2024T03:43:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/logo' is hovered
+
+21-08-2024T03:43:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-08-2024T03:43:26 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is clickable
+
+21-08-2024T03:43:27 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is checked
+
+21-08-2024T03:43:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Produkte anzeigen' is clicked on
+
+21-08-2024T03:43:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192010436.png]]
+
+21-08-2024T03:43:30 - [MESSAGE][PASSED] - com.Commons.CommonMethods.selectFilters is PASSED
+
+21-08-2024T03:43:30 - [TEST_STEP][PASSED] - com.Commons.CommonMethods.listOutTheProductBasedOnFilters(): com.Commons.CommonMethods.listOutTheProductBasedOnFilters is PASSED
+
+21-08-2024T03:43:31 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/product_Names' is visible
+
+21-08-2024T03:43:31 - [MESSAGE][INFO] - productBrands = -417
+
+21-08-2024T03:43:31 - [MESSAGE][INFO] - productBrands = -417
+
+21-08-2024T03:43:34 - [MESSAGE][INFO] - 0 hidden object(s)
+
+21-08-2024T03:43:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192011467.png]]
+
+21-08-2024T03:43:34 - [MESSAGE][PASSED] - com.Commons.CommonMethods.listOutTheProductBasedOnFilters is PASSED
+
+21-08-2024T03:43:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+21-08-2024T03:43:35 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_SearchProducts" time="83.412" classname="Test Cases/TC_SearchProducts" status="PASSED">
+         <system-out><![CDATA[21-08-2024T03:43:35 - [TEST_CASE][PASSED] - Test Cases/TC_SearchProducts: Test Cases/TC_SearchProducts
+
+21-08-2024T03:43:35 - [TEST_STEP][PASSED] - com.Commons.CommonMethods.navigateToUrl(url): com.Commons.CommonMethods.navigateToUrl is PASSED
+
+21-08-2024T03:43:35 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+21-08-2024T03:43:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-08-2024T03:43:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+21-08-2024T03:43:44 - [MESSAGE][PASSED] - Navigate to 'https://www.douglas.de/de' successfully
+
+21-08-2024T03:43:45 - [MESSAGE][PASSED] - Current window maximized
+
+21-08-2024T03:43:50 - [MESSAGE][PASSED] - Object 'Object Repository/AcceptCookies/button_ALLE ERLAUBEN' is present
+
+21-08-2024T03:43:51 - [MESSAGE][PASSED] - Object: 'Object Repository/AcceptCookies/button_ALLE ERLAUBEN' is clicked on
+
+21-08-2024T03:43:57 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@class="survey-modal__close-inner"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+21-08-2024T03:43:57 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/AcceptCookies/button_Close'. Try using Self-healing.
+
+21-08-2024T03:43:58 - [MESSAGE][INFO] - [SELF-HEALING] No working XPath is found.
+
+21-08-2024T03:43:59 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+21-08-2024T03:43:59 - [MESSAGE][WARNING] - [SELF-HEALING] Cannot find elements when the selector is null
+
+21-08-2024T03:43:59 - [MESSAGE][WARNING] - Object 'Object Repository/AcceptCookies/button_Close' is not present after 5 second(s)
+
+21-08-2024T03:44:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192040113.png]]
+
+21-08-2024T03:44:00 - [MESSAGE][PASSED] - com.Commons.CommonMethods.navigateToUrl is PASSED
+
+21-08-2024T03:44:00 - [TEST_STEP][PASSED] - com.Commons.CommonMethods.selctCriteria(Criteria): com.Commons.CommonMethods.selctCriteria is PASSED
+
+21-08-2024T03:44:00 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_Criteria' is clickable
+
+21-08-2024T03:44:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Next' is clicked on
+
+21-08-2024T03:44:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/select_Criteria' is clicked on
+
+21-08-2024T03:44:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-08-2024T03:44:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Next' is clicked on
+
+21-08-2024T03:44:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192053072.png]]
+
+21-08-2024T03:44:13 - [MESSAGE][PASSED] - com.Commons.CommonMethods.selctCriteria is PASSED
+
+21-08-2024T03:44:13 - [TEST_STEP][PASSED] - com.Commons.CommonMethods.selectFilters(Marke, Produktart, GeschenkFur, FurWen): com.Commons.CommonMethods.selectFilters is PASSED
+
+21-08-2024T03:44:18 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+21-08-2024T03:44:18 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_Filter' is clickable
+
+21-08-2024T03:44:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/select_Filter' is clicked on
+
+21-08-2024T03:44:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/logo' is hovered
+
+21-08-2024T03:44:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-08-2024T03:44:22 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is clickable
+
+21-08-2024T03:44:23 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is checked
+
+21-08-2024T03:44:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Produkte anzeigen' is clicked on
+
+21-08-2024T03:44:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192066729.png]]
+
+21-08-2024T03:44:32 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+21-08-2024T03:44:37 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+21-08-2024T03:44:38 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_Filter' is clickable
+
+21-08-2024T03:44:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/select_Filter' is clicked on
+
+21-08-2024T03:44:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/logo' is hovered
+
+21-08-2024T03:44:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-08-2024T03:44:41 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is clickable
+
+21-08-2024T03:44:43 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/select_checkBox' is checked
+
+21-08-2024T03:44:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Filters/button_Produkte anzeigen' is clicked on
+
+21-08-2024T03:44:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192087659.png]]
+
+21-08-2024T03:44:47 - [MESSAGE][PASSED] - com.Commons.CommonMethods.selectFilters is PASSED
+
+21-08-2024T03:44:47 - [TEST_STEP][PASSED] - com.Commons.CommonMethods.listOutTheProductBasedOnFilters(): com.Commons.CommonMethods.listOutTheProductBasedOnFilters is PASSED
+
+21-08-2024T03:44:48 - [MESSAGE][PASSED] - Object 'Object Repository/Filters/product_Names' is visible
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = PICARD
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = BUGATTI
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = AMERICAN TOURISTER
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = TED BAKER
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = BUGATTI
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = BUGATTI
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = AMERICAN TOURISTER
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = RONCATO
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = RONCATO
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = RONCATO
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = RONCATO
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = FJÄLLRÄVEN
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = MARC O'POLO
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = MARC O'POLO
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = U.S. POLO ASSN.
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = LACOSTE
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = MARC O'POLO
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = U.S. POLO ASSN.
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = LACOSTE
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = U.S. POLO ASSN.
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = U.S. POLO ASSN.
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:48 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = HUGO BOSS
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = HUGO BOSS
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = HUGO BOSS
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = REDOLZ
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = HUGO BOSS
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = JOOP! JEANS
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = JOOP!
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = JOOP! JEANS
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = REISENTHEL
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = PICARD
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = COWBOYSBAG
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = PICARD
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = PICARD
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = PICARD
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = PICARD
+
+21-08-2024T03:44:49 - [MESSAGE][INFO] - productBrands = TRAVELITE
+
+21-08-2024T03:44:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+21-08-2024T03:44:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Dell\\git\\Applause_Assignment\\Reports\\20240821_034156\\SearchProducts\\20240821_034156\\1724192089478.png]]
+
+21-08-2024T03:44:57 - [MESSAGE][PASSED] - com.Commons.CommonMethods.listOutTheProductBasedOnFilters is PASSED
+
+21-08-2024T03:44:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+21-08-2024T03:44:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-08-2024T03:42:04 - [TEST_SUITE][PASSED] - SearchProducts: Test Cases/TC_SearchProducts]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

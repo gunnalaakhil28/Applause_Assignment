@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SearchProducts,Edge Chromium 127,,,21-08-2024 02:03:04,21-08-2024 02:05:49,2m - 44.551s,PASSED
+,,,,,,,
+Test Cases/TC_SearchProducts,Edge Chromium 127,,,21-08-2024 02:03:05,21-08-2024 02:04:34,1m - 29.842s,PASSED
+com.Commons.CommonMethods.navigateToUrl(url),Edge Chromium 127,,,21-08-2024 02:03:05,21-08-2024 02:03:35,29.123s,PASSED
+com.Commons.CommonMethods.selctCriteria(Criteria),Edge Chromium 127,,,21-08-2024 02:03:35,21-08-2024 02:03:45,10.830s,PASSED
+"com.Commons.CommonMethods.selectFilters(Marke, Produktart, GeschenkFur, FurWen)",Edge Chromium 127,,,21-08-2024 02:03:45,21-08-2024 02:04:30,44.925s,PASSED
+com.Commons.CommonMethods.listOutTheProductBasedOnFilters(),Edge Chromium 127,,,21-08-2024 02:04:30,21-08-2024 02:04:34,3.610s,PASSED
+closeBrowser(),Edge Chromium 127,,,21-08-2024 02:04:34,21-08-2024 02:04:34,0.454s,PASSED
+,,,,,,,
+Test Cases/TC_SearchProducts,Edge Chromium 127,,,21-08-2024 02:04:35,21-08-2024 02:05:49,1m - 14.102s,PASSED
+com.Commons.CommonMethods.navigateToUrl(url),Edge Chromium 127,,,21-08-2024 02:04:35,21-08-2024 02:04:58,23.634s,PASSED
+com.Commons.CommonMethods.selctCriteria(Criteria),Edge Chromium 127,,,21-08-2024 02:04:58,21-08-2024 02:05:05,7.227s,PASSED
+"com.Commons.CommonMethods.selectFilters(Marke, Produktart, GeschenkFur, FurWen)",Edge Chromium 127,,,21-08-2024 02:05:05,21-08-2024 02:05:39,33.860s,PASSED
+com.Commons.CommonMethods.listOutTheProductBasedOnFilters(),Edge Chromium 127,,,21-08-2024 02:05:39,21-08-2024 02:05:48,8.870s,PASSED
+closeBrowser(),Edge Chromium 127,,,21-08-2024 02:05:48,21-08-2024 02:05:49,0.462s,PASSED

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SearchProducts</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8cd85be3-5189-48e5-8bf0-9c43ffa2240f</testSuiteGuid>
+   <testCaseLink>
+      <guid>991b5946-9a4b-4b3b-adf3-1e35ae160371</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_SearchProducts</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>aee35d5c-2c38-46be-aa54-bca9d1b4b096</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SearchProducts</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>aee35d5c-2c38-46be-aa54-bca9d1b4b096</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Criteria</value>
+         <variableId>c9acb522-9537-4581-9f80-f796ec5b7198</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>aee35d5c-2c38-46be-aa54-bca9d1b4b096</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Marke</value>
+         <variableId>7a0ad83b-83f9-4e2b-bb60-fedec3757a25</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>aee35d5c-2c38-46be-aa54-bca9d1b4b096</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Produktart</value>
+         <variableId>28b1b6be-35ca-4a36-b936-f7162fd5f6ee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>aee35d5c-2c38-46be-aa54-bca9d1b4b096</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FurWen</value>
+         <variableId>def8ba61-8cce-42f4-aa13-89eb2b82acac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>aee35d5c-2c38-46be-aa54-bca9d1b4b096</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>GeschenkFur</value>
+         <variableId>08524167-b86a-4e65-9efb-9a1f228a6da6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SearchProducts,Chrome 127.0.0.0,,,21-08-2024 02:06:26,21-08-2024 02:09:04,2m - 37.521s,PASSED
+,,,,,,,
+Test Cases/TC_SearchProducts,Chrome 127.0.0.0,,,21-08-2024 02:06:27,21-08-2024 02:07:48,1m - 21.108s,PASSED
+com.Commons.CommonMethods.navigateToUrl(url),Chrome 127.0.0.0,,,21-08-2024 02:06:28,21-08-2024 02:06:51,23.854s,PASSED
+com.Commons.CommonMethods.selctCriteria(Criteria),Chrome 127.0.0.0,,,21-08-2024 02:06:51,21-08-2024 02:07:02,11.062s,PASSED
+"com.Commons.CommonMethods.selectFilters(Marke, Produktart, GeschenkFur, FurWen)",Chrome 127.0.0.0,,,21-08-2024 02:07:02,21-08-2024 02:07:44,41.201s,PASSED
+com.Commons.CommonMethods.listOutTheProductBasedOnFilters(),Chrome 127.0.0.0,,,21-08-2024 02:07:44,21-08-2024 02:07:47,3.720s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 02:07:47,21-08-2024 02:07:48,0.458s,PASSED
+,,,,,,,
+Test Cases/TC_SearchProducts,Chrome 127.0.0.0,,,21-08-2024 02:07:48,21-08-2024 02:09:04,1m - 15.780s,PASSED
+com.Commons.CommonMethods.navigateToUrl(url),Chrome 127.0.0.0,,,21-08-2024 02:07:48,21-08-2024 02:08:09,20.591s,PASSED
+com.Commons.CommonMethods.selctCriteria(Criteria),Chrome 127.0.0.0,,,21-08-2024 02:08:09,21-08-2024 02:08:20,11.462s,PASSED
+"com.Commons.CommonMethods.selectFilters(Marke, Produktart, GeschenkFur, FurWen)",Chrome 127.0.0.0,,,21-08-2024 02:08:20,21-08-2024 02:08:53,33.297s,PASSED
+com.Commons.CommonMethods.listOutTheProductBasedOnFilters(),Chrome 127.0.0.0,,,21-08-2024 02:08:53,21-08-2024 02:09:03,9.997s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 02:09:03,21-08-2024 02:09:04,0.399s,PASSED

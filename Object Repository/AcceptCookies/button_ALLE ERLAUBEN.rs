@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ALLE ERLAUBEN</name>
+   <tag></tag>
+   <elementGuidId>9c34d267-5ee6-4621-9573-814b10fab856</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.sc-aXZVg.jmAsbz > #focus-lock-id > #focus-lock-id > div.sc-dAlyuH.gRvRiD > #uc-center-container > div.sc-eBMEME.dRvQzh > div.sc-dCFHLb.eNfaCm > div.sc-jsJBEP.iXSECa > div.sc-eeDRCY.fnyekb > button.sc-dcJsrY.eIFzaz</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uc-center-container']/div[2]/div/div/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3ff798d7-e8af-45ff-b9ed-192f2e55d9c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>972861b5-dbd4-45b8-9e13-9154487d7c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>uc-accept-all-button</value>
+      <webElementGuid>7154c596-8854-4a81-b048-8477e9c48e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-dcJsrY eIFzaz</value>
+      <webElementGuid>050b4892-1a8b-47ee-86e9-589dd341f9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ALLE ERLAUBEN</value>
+      <webElementGuid>85deb84d-7d0a-42c5-8ffe-4fbc12ecd678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/div[@class=&quot;sc-aXZVg jmAsbz&quot;]/div[@id=&quot;focus-lock-id&quot;]/div[@id=&quot;focus-lock-id&quot;]/div[@class=&quot;sc-dAlyuH gRvRiD&quot;]/div[@id=&quot;uc-center-container&quot;]/div[@class=&quot;sc-eBMEME dRvQzh&quot;]/div[@class=&quot;sc-dCFHLb eNfaCm&quot;]/div[@class=&quot;sc-jsJBEP iXSECa&quot;]/div[@class=&quot;sc-eeDRCY fnyekb&quot;]/button[@class=&quot;sc-dcJsrY eIFzaz&quot;]</value>
+      <webElementGuid>e25b9a46-27a5-4764-8c1d-73e2f7146dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/AcceptCookies/divusercentrics-root-DOUGLAS-255</value>
+      <webElementGuid>53390e6b-9d0f-4749-be2f-ba02cd4049ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>feff41c1-5496-4c7a-b911-8fe6894b0d74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uc-center-container']/div[2]/div/div/div/button[3]</value>
+      <webElementGuid>e739e14a-3c2c-4cc2-b058-df3d04b5b302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'ALLE ERLAUBEN' or . = 'ALLE ERLAUBEN')]</value>
+      <webElementGuid>e0745c96-ec35-4b4d-bb05-8153454b1068</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
